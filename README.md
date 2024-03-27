@@ -8,8 +8,8 @@ A Minecraft datapack that allows you to change the despawn time of items after d
 * Survival friendly.
 
 ## Usage
-* Use ```/trigger despawnTime set X``` to set item despawn time after death in ticks (X) (default: 6000 ticks or 5 minutes).
-* Use ```/trigger invItems set (0 or 1)``` to make items invulnerable after death (default: 0 or off).
+* ```/trigger despawnTime set X```: Set item despawn time after death in ticks (X) (default: 6000 ticks or 5 minutes).
+* ```/trigger invItems set (0 or 1)```: Make items invulnerable after death (default: 0 or off).
 
 ## Installation
 * Click "Code" -> "Download ZIP".
