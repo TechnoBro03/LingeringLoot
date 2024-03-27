@@ -1,5 +1,5 @@
 # Lingering Loot
-A Minecraft datapack that allows you to change the despawn time of items after death.
+A Minecraft datapack that allows you to change the despawn time of items after death and make them invulnerable.
 
 ## Features
 * Change the despawn time of items after death.
