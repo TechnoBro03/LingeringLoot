@@ -1,5 +1,5 @@
 {
     "values": [
-    "lingering_loot:load"
+    "lingering_loot:internal/load"
 ]
 }

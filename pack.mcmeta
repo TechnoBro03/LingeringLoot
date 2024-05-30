@@ -1,7 +1,7 @@
 {
     "pack" : {
         "pack_format" : 15,
-        "supported_formats" : [15,36],
-        "description" : "A Minecraft datapack that allows you to change the despawn time of items after death."
+        "supported_formats" : [15,46],
+        "description" : "A Minecraft datapack that allows you to change the despawn time and invulnerability of items after death."
     }
 }

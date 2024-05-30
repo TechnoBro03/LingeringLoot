@@ -1,5 +1,5 @@
 {
     "values": [
-    "lingering_loot:tick"
+    "lingering_loot:internal/tick"
  ]
 }
