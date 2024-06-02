@@ -11,5 +11,7 @@ scoreboard players set .default lingering_loot.despawnTime 6000
 scoreboard players set .1200 lingering_loot.despawnTime 1200
 scoreboard players set .12 lingering_loot.despawnTime 12
 scoreboard players set .100 lingering_loot.despawnTime 100
-scoreboard players set .invItems lingering_loot.invItems -1
 scoreboard players set .-1 lingering_loot.invItems -1
+
+# Save previous state of invItems
+execute unless score .invItems lingering_loot.invItems matches -1..1 run scoreboard players set .invItems lingering_loot.invItems -1
