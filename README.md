@@ -12,12 +12,11 @@ A Minecraft datapack that allows you to change the despawn time and invulnerabil
 * ```/trigger lingering_loot.invItems```: Toggle on/off making items invulnerable after death.
 
 ## Installation
-* Click "Code" -> "Download ZIP".
-* Copy the folder within the ZIP file.
+* Go to [Releases](https://github.com/TechnoBro03/LingeringLoot/releases)
+* Find the desired release version.
+* Download the ```LingeringLoot-X.X.X.zip``` ZIP file.
 * Open Minecraft.
-* Select the world you want to install the datapack to and click "Edit" -> "Open world folder".
-* Open the "datapacks" folder, and paste the folder inside.
-* Type /reload if you are in the world during the installation.
-* The pack should now be enabled in the world and you should see an in-game message.
-
-## [Releases](https://github.com/TechnoBro03/LingeringLoot/releases)
+* Select the world you want to install the datapack to and click ```Edit``` -> ```Open world folder```.
+* Open the ```datapacks``` folder, and place the ZIP file inside.
+* Type ```/reload``` if you are in the world during the installation.
+* The datapack should now be enabled and you should see an in-game message.
