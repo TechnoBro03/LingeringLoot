@@ -8,7 +8,8 @@ A Minecraft datapack that allows you to change the despawn time and invulnerabil
 * Survival friendly.
 
 ## Usage
-* ```/trigger lingering_loot.despawnTime set X```: Set item despawn time after death in ticks (X) (default: 6000 ticks or 5 minutes. Max: 38768 ticks or ~32 minutes).
+* ```/trigger lingering_loot.despawnTime```: Set item despawn time after death to default (6000 ticks or 5 minutes).
+* ```/trigger lingering_loot.despawnTime set X```: Set item despawn time after death in ticks (X) (Min: 0 ticks or 0.0 minutes. Max: 38768 ticks or ~32.3 minutes).
 * ```/trigger lingering_loot.invItems```: Toggle on/off making items invulnerable after death.
 
 ## Installation
